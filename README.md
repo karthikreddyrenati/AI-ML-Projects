@@ -13,3 +13,8 @@ Conducted sensitivity analysis by adjusting simulation parameters (e.g., initial
 Data Visualization:
 
 Employed Matplotlib to visualize simulation results, presenting trends in infection, recovery, and death rates for better understanding and communication of data.
+
+
+Successfully stitched multiple images into a high-quality panorama, demonstrating proficiency in computer vision techniques.
+Enhanced the application’s robustness by implementing error handling for insufficient matches and invalid image paths.
+Generated comprehensive output reports in PDF format, showcasing original images, matching visualizations, and the final panorama.
